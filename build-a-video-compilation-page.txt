@@ -1,0 +1,35 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>All that I need!</h1>
+        <p>Life if long and very short at the same time. This is what I always dream about.</p>
+        <section>
+            <h2>Hatha Yoga Teacher Training</h2>
+            <p>Need an investment of 10lakh</p>
+            <iframe src="https://www.youtube.com/embed/shorts/biylOS-AJ2w" title="Sadhnapad to Hatha Yoga Teacher" height="560" width="315"></iframe>
+        </section>
+        <section>
+            <h2>Indian Foreign Service</h2>
+            <p>Need an investment of 2 years</p>
+            <iframe src="https://www.youtube.com/embed/shorts/Jxsl9zaeRcI" title="Life of an foeign service officer" height="560" width="315"></iframe>
+        </section>
+        <section>
+            <h2>Novalist As a Vocation</h2>
+            <p>Need an investment of lifetime</p>
+            <iframe src="https://www.youtube.com/embed/watch?v=1VUETJvvHXI" title="Life of an foeign service officer" height="560" width="315"></iframe>
+        </section>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
